@@ -1,6 +1,6 @@
 import React from "react";
 import { StyleSheet, Text, View, Image } from "react-native";
-import Button from "../components/Button";
+import Button from "../Components/Button";
 export default class UserDetails extends React.Component {
   static navigationOptions = ({ navigation }) => ({
     headerTintColor: "white",
