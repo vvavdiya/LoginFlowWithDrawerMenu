@@ -6,8 +6,8 @@ import {
   KeyboardAvoidingView,
   Platform
 } from "react-native";
-import Button from "../components/Button";
-import FormTextInput from "../components/FormTextInput";
+import Button from "../Components/Button";
+import FormTextInput from "../Components/FormTextInput";
 
 interface State {
   email: string;
